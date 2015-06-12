@@ -1,0 +1,20 @@
+[ 
+	{"Check Lan Adapter Properties": [
+		"set IP Address(static|automatic)", 
+		"set DNS Server IP(static|automatic)"
+	]},
+	{"Router setup for a cable modem": [
+		"Bypassed router, getting online", 
+		"Physically connect router to modem",
+		"Reset Router",
+		"Tried auto setup wizard",
+		"Mac spoof done",
+		"Verified wifi working"
+	]},  
+	{"Check Wifi Properties": [
+		"step1", 
+		"step2", 
+		"step3", 
+		"step4"
+	]}
+]

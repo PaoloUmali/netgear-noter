@@ -1,0 +1,39 @@
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}
+
+body {
+	padding-top: 10px;
+}
+
+#timer {
+	position:fixed;
+	display:block;
+	width:100%;
+	top:0;
+	background-color:#ccc;
+	z-index:10;
+}
+#timer-row div {
+	height:4px;
+	max-height:4px;
+}
+.col-xs-2.crimson{
+	background-color: crimson;
+}
+
+#myTab {margin-bottom:10px;}
+#form1 > .row, #form1 textarea {margin-bottom:10px;}
+
+.caseNote {
+	font-size: 10px;
+}
+
+pre {
+	margin-bottom:0;
+	padding:0;
+	border:0;
+	background-color:#fff;
+	font-size:11px;
+	font-family: inherit !important;
+}
+
+#myModal #tsImporter {display:none;}
